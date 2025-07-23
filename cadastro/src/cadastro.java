@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Cadastro {
+public class Cadastro{
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
        int opcao;
